@@ -46,6 +46,7 @@ Pandas | Scikit-learn | PyTorch | OpenCV
 - 💼 **Looking For:** Collaborations, open-source projects, and job opportunities in **ML/Data Engineering**.
 - 📫 **Reach Me:** 
   - LinkedIn: [yahya-laasri](https://linkedin.com/in/yahya-laasri/)
+  - Hackerrank: [yahyalaasri](https://www.hackerrank.com/profile/yahyalaasri)
 - 🛠️ **Explore My Work:** Dive into my repositories below — they’re my evolving portfolio!
 
 ---
